@@ -56,4 +56,6 @@ public class EnemyAI : MonoBehaviour
         // Aqui você pode chamar um método no script do jogador, tipo:
         // player.GetComponent<PlayerHealth>().TakeDamage(damage);
     }
+
+    
 }
